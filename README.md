@@ -23,8 +23,10 @@ A week after your resumption, you get a mail from your boss with the following d
 #### Data Path: Data Science
 - Using Python, you are expected to scrape the data from propertypro.ng.
 - Develop a regression model that predicts house prices based on the data you scraped
-- Create a recommender system that recommends areas/houses to rent a house based on customer budget, size of house and desired commute time to work
 - Using Plotly Dash, you are expected to create stunning interface which customers can interact with your models on.
+
+Optional 
+ - Create a recommender system that recommends areas/houses to rent a house based on customer budget, size of house and desired commute time to work
 
 ### Deliverables
 - ML model that predicts house prices
